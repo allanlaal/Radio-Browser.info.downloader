@@ -1,0 +1,36 @@
+split these into separate smaller categories:
+<paste tags.txt here>
+
+
+this is a list of tags. treat them as text strings, do not modify them in your output
+
+one tag can be in multiple categories
+
+use very specific music and EDM subgenres as categories
+
+
+gimme answer as a bash code block, like:
+
+    declare -A categories=(
+        ["somecat"]="a,b,c,d"
+        ["otherCat"]="c,a,h"
+    )
+
+------------------
+
+
+this is a list of tags.
+split these into separate categories based on the positivity+energy level of that genre
+treat them as text strings, do not modify them in your output
+one tag can be in multiple categories
+be generous in your matches, I dont want any leftovers
+
+gimme answer as a bash code block, like:
+
+    declare -A categories=(
+        ["somecat"]="a,b,c,d"
+        ["otherCat"]="c,a,h"
+    )
+
+
+<paste/attach tags.txt here>
