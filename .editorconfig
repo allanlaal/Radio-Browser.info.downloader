@@ -1,0 +1,8 @@
+[*]
+end_of_line = lf
+charset = utf-8
+
+[*.bash]
+indent_size = 4
+indent_style = tab
+
