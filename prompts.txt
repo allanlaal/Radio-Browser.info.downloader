@@ -1,6 +1,4 @@
 split these into separate smaller categories:
-<paste tags.txt here>
-
 
 this is a list of tags. treat them as text strings, do not modify them in your output
 
@@ -15,6 +13,10 @@ gimme answer as a bash code block, like:
         ["somecat"]="a,b,c,d"
         ["otherCat"]="c,a,h"
     )
+
+
+<paste/attach tags.csv here>
+
 
 ------------------
 
@@ -33,4 +35,17 @@ gimme answer as a bash code block, like:
     )
 
 
-<paste/attach tags.txt here>
+<paste/attach tags.csv here>
+
+
+
+
+
+
+
+
+
+
+## NOTE
+
+LLM's will still prolly "clean" up the output, thus invalidating some tags - the Downloader will handle them.
